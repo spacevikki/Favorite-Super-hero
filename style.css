@@ -1,0 +1,17 @@
+body {
+  text-align:center;
+   background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+
+    
+}
+.image {
+  border-radius: 50%;
+    width: 180;
+    margin-bottom: 40px;
+  }
+h1 {
+  text-shadow: 1px 1px blue;
+}
+h2 {
+  text-shadow: 1px 1px navy;
+}
